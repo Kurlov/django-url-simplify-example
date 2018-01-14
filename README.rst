@@ -2,6 +2,9 @@
 Django url simplify example
 ===========================
 
+.. image:: https://travis-ci.org/Kurlov/django-url-simplify-example.svg?branch=master
+    :target: https://travis-ci.org/Kurlov/django-url-simplify-example
+
 Simple example of converting urls into base62 encoded ones. Basicly, this app
 uses `django-url-simplify
 <https://pypi.python.org/pypi/django-url-simplify/0.0.2>`_.
